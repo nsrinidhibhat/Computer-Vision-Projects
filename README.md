@@ -1,4 +1,4 @@
-# Computer-Vision-Projects
+# Computer Vision Projects
 
 I'm planning to delve forward with understanding more about Computer Vision. Be a part of the journey, while I post my projects, knowledge snippets on the same. Happy Learning!
 
