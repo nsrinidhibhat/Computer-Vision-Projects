@@ -1,5 +1,5 @@
 <h1 style="background-color:#EEEEEE; color:#222831; text-align:left; font-family:Georgia">Computer Vision Projects</h1>
-<hr>
+
 I'm planning to delve forward with understanding more about Computer Vision. Be a part of the journey, while I post my projects, knowledge snippets on the same. Happy Learning!
 
 ## Projects 
